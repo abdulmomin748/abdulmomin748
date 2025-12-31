@@ -18,8 +18,14 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 ## :mailbox: Reach out to me
 <br />
 
-[Twitter/TalhaTarique1](https://twitter.com/TalhaTarique1) &bullet; [LinkedIn/talha-tarique](https://www.linkedin.com/in/talha-tarique/) &bullet; [Instagram/talha_tarique77](https://www.instagram.com/talha_tarique77/) &bullet; [Website/talhatarique](http://talhatarique.com/) &bullet; [Facebook/Talha Tarique](https://www.facebook.com/talha.tarique.5) &bullet; [Discord/Talha Tarique](https://discord.gg/uxpwasKq) &bullet;[Threads/talha_tarique77](https://www.threads.net/@talha_tarique77) &bullet;[Medium/talhatarique](https://medium.com/@talhatarique)&bullet; 
- [WhataApp/+8801785030648](https://wa.link/8bkntc)&bullet;[Linktree/talhatarique](https://linktr.ee/talhatarique) &bullet;[Hikmah/Talha](https://hikmah.net/@Talha)
+<a href="https://codepen.io/abdulmomin748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulmomin748" height="30" width="40" /></a>
+<a href="https://dev.to/abdulmomin748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abdulmomin748" height="30" width="40" /></a>
+<a href="https://twitter.com/abmomindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abmomindev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abmomindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abmomindev" height="30" width="40" /></a>
+<a href="https://fb.com/abmomindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abmomindev" height="30" width="40" /></a>
+<a href="https://medium.com/@mominurrahman10748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mominurrahman10748" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mominurrahman101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mominurrahman101" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/abmomindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abmomindev" height="30" width="40" /></a>
  
  <br />
  
@@ -50,18 +56,18 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmomin748&show_icons=true&locale=en&layout=compact" alt="abdulmomin748" /></p>
 
 <h3 align="left">🔥 My Stats :</h3>
+## :fire: My Stats
+
 <p>
-  <img align="left"
+  <img align="center"
        src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmomin748&show_icons=true&locale=en&layout=compact"
        alt="abdulmomin748" />
 </p>
-
 <p>
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=abdulmomin748&show_icons=true&locale=en"
        alt="abdulmomin748" />
 </p>
-
 <p>
   <img align="center"
        src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmomin748"
