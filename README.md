@@ -17,7 +17,6 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - ⚡ Fun fact **"Learn from the mistakes" 😃**
 
 ---
-
 ## 🛠 Skills
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap, DaisyUI  
@@ -26,7 +25,6 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - **Other Tools:** Git, GitHub, VS Code, REST APIs
 
 ---
-
 ## :mailbox: Reach out to me
 <br />
 
