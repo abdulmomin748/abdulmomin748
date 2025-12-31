@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ab Momin</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Frontend-Focused | Full-Stack Enthusiast</h3>
 
-I am a Junior Web Developer specializing in Frontend and MERN Stack development. I build responsive and user-friendly web applications using modern JavaScript technologies. I enjoy learning new tools, improving code quality, and collaborating on real-world projects.
+I am a Junior Web Developer focused on Frontend and MERN Stack development. I build responsive and user-friendly web applications using modern JavaScript technologies. I am a full-stack enthusiast, continuously learning new tools and improving code quality. In the future, I aim to explore mobile app development and work on impactful real-world projects.
 
 Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind CSS, Bootstrap, Firebase
 
@@ -26,12 +26,12 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 <a href="https://medium.com/@mominurrahman10748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mominurrahman10748" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mominurrahman101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mominurrahman101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abmomindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abmomindev" height="30" width="40" /></a>
- 
  <br />
  
 ## :computer: Technologies that I know
 
 <p align="center">
+ 
 <img src="https://i.ibb.co/LRGrxXz/HTML.png"/>
 <img src="https://i.ibb.co/Tv1hTPX/css.png"/>
 <img src="https://i.ibb.co/y5ZQy5n/Java-Script.png"/>
@@ -53,9 +53,8 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="git" width="60" height="60"/>
 </p><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmomin748&show_icons=true&locale=en&layout=compact" alt="abdulmomin748" /></p>
 
-## :My Stats
+## 🔥 My Stats
 
 <p>
   <img align="center"
