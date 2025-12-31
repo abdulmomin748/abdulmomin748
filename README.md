@@ -1,4 +1,6 @@
-![logo](https://github.com/abdulmomin748/abdulmomin748/blob/main/Banner.gif)
+<img src="https://github.com/abdulmomin748/abdulmomin748/blob/main/Banner.gif" 
+     alt="logo" 
+     width="100%">
 <h1 align="center">Hi 👋, I'm Ab Momin</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Frontend-Focused | Full-Stack Enthusiast</h3>
 
