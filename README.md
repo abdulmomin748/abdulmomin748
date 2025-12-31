@@ -2,9 +2,20 @@
 <h1 align="center">Hi 👋, I'm Ab Momin</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Frontend-Focused | Full-Stack Enthusiast</h3>
 
+---
+
+## 🔹 About Me
 I am a Junior Web Developer focused on Frontend and MERN Stack development. I build responsive and user-friendly web applications using modern JavaScript technologies. I am a full-stack enthusiast, continuously learning new tools and improving code quality. In the future, I aim to explore mobile app development and work on impactful real-world projects.
 
-Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind CSS, Bootstrap, Firebase
+---
+
+## 🛠 Skills
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap, DaisyUI  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Firebase  
+- **Other Tools:** Git, GitHub, VS Code, REST APIs
+
+---
 
 - 💡 I enjoy exploring new technologies and building practical software solutions.
 - 🌱 Currently learning Next.js
