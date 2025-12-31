@@ -16,7 +16,6 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - 📍 Based in Thakurgaon, Bangladesh.
 - ⚡ Fun fact **"Learn from the mistakes" 😃**
 
----
 ## 🛠 Skills
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Bootstrap, DaisyUI  
@@ -24,7 +23,6 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - **Database:** MongoDB, Firebase  
 - **Other Tools:** Git, GitHub, VS Code, REST APIs
 
----
 ## :mailbox: Reach out to me
 <br />
 
