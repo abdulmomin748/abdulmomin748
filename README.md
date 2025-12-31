@@ -22,9 +22,9 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
  [WhataApp/+8801785030648](https://wa.link/8bkntc)&bullet;[Linktree/talhatarique](https://linktr.ee/talhatarique) &bullet;[Hikmah/Talha](https://hikmah.net/@Talha)
  
  <br />
+ 
 ## :computer: Technologies that I know
 ---
-
 <p align="center">
 <img src="https://i.ibb.co/LRGrxXz/HTML.png"/>
 <img src="https://i.ibb.co/Tv1hTPX/css.png"/>
