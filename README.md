@@ -23,6 +23,7 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
  
  <br />
 ## :computer: Technologies that I know
+--
 <br>
 <p align="center">
 <img src="https://i.ibb.co/LRGrxXz/HTML.png"/>
@@ -43,8 +44,8 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 <img src="https://i.ibb.co/88twDYS/mongo.png"/>
 </p><br/>
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- <img src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000" alt="git" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+ <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="git" width="60" height="60"/>
 </p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
