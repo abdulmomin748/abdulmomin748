@@ -24,7 +24,6 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
  <br />
  
 ## :computer: Technologies that I know
----
 <p align="center">
 <img src="https://i.ibb.co/LRGrxXz/HTML.png"/>
 <img src="https://i.ibb.co/Tv1hTPX/css.png"/>
