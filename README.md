@@ -44,7 +44,7 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 </p><br/>
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
- <img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)" alt="git" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000)" alt="git" width="40" height="40"/>
 </p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
