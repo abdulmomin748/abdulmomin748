@@ -22,6 +22,10 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - **Other Tools:** Git, GitHub, VS Code, REST APIs
 
 ## :mailbox: Reach out to me
+- 📧 Email: mdtalha2008@gmail.com  
+- 🌍 Twitter: [@AbMominDev](https://twitter.com/AbMominDev)  
+- 💬 Discord: `YourDiscordID#1234` (optional)  
+- 💼 LinkedIn: [Ab Momin](https://www.linkedin.com/in/yourprofile) 
 <br />
 
 <a href="https://codepen.io/abdulmomin748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulmomin748" height="30" width="40" /></a>
