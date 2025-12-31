@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ab Momin</h1>
 <h3 align="center">Aspiring MERN Stack Developer | Frontend-Focused | Full-Stack Enthusiast</h3>
 
-## 🔹 About Me
+## ✨ About Me
 I am a Junior Web Developer focused on Frontend and MERN Stack development. I build responsive and user-friendly web applications using modern JavaScript technologies. I am a full-stack enthusiast, continuously learning new tools and improving code quality. In the future, I aim to explore mobile app development and work on impactful real-world projects.
 
 - 💡 I enjoy exploring new technologies and building practical software solutions.
@@ -21,11 +21,10 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - **Database:** MongoDB, Firebase  
 - **Other Tools:** Git, GitHub, VS Code, REST APIs
 
-## :mailbox: Reach out to me
-- 📧 Email: mdtalha2008@gmail.com  
-- 🌍 Twitter: [@AbMominDev](https://twitter.com/AbMominDev)  
-- 💬 Discord: `YourDiscordID#1234` (optional)  
-- 💼 LinkedIn: [Ab Momin](https://www.linkedin.com/in/yourprofile) 
+## 🤝 Reach out to me
+- 📧 Email: mominurrahman10748@gmail.com  
+- 🌍 Portfolio: [@AbMominDev](https://abmomin.netlify.app/)  
+- 💬 Discord: [@AbMominDev](https://discord.com/users/911625236271747093)  
 <br />
 
 <a href="https://codepen.io/abdulmomin748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulmomin748" height="30" width="40" /></a>
@@ -38,7 +37,7 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 <a href="https://www.leetcode.com/abmomindev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abmomindev" height="30" width="40" /></a>
  <br />
  
-## :computer: Technologies that I know
+## :computer:⚙️ Technologies & Tools I’m Familiar With
 
 <p align="center">
  <br />
@@ -58,13 +57,19 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 <img src="https://i.ibb.co/SNXx7j6/node.png"/>
 <img src="https://i.ibb.co/KmgyfpD/express.png"/>
 <img src="https://i.ibb.co/88twDYS/mongo.png"/>
-</p><br/>
+</p>
 <p align="center">
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
  <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="git" width="60" height="60"/>
-</p><br/>
+ <img src="https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000" alt="git" width="60" height="60"/>
+</p>
+<p align="center">
+ <img src="https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000" alt="git" width="60" height="60"/>
+ <img src="https://img.icons8.com/?size=100&id=v05jsvW3RprR&format=png&color=000000" alt="git" width="60" height="60"/>
+</p>
+<br/>
 
-## 🔥 My Stats
+## 🔥 GitHub Stats
 
 <p>
   <img align="center"
