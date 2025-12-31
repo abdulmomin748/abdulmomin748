@@ -55,8 +55,7 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 </p><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulmomin748&show_icons=true&locale=en&layout=compact" alt="abdulmomin748" /></p>
 
-<h3 align="left">🔥 My Stats :</h3>
-## :fire: My Stats
+## :My Stats
 
 <p>
   <img align="center"
