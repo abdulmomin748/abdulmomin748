@@ -1,6 +1,6 @@
 ![logo](https://github.com/abdulmomin748/abdulmomin748/blob/main/devBannerF.png)
 <h1 align="center">Hi 👋, I'm Ab Momin</h1>
-<h3 align="center">A passionate Junior web developer from Bangladesh</h3>
+<h3 align="center">Aspiring MERN Stack Developer | Frontend-Focused | Full-Stack Enthusiast</h3>
 
 I am a Junior Web Developer specializing in Frontend and MERN Stack development. I build responsive and user-friendly web applications using modern JavaScript technologies. I enjoy learning new tools, improving code quality, and collaborating on real-world projects.
 
@@ -23,7 +23,6 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
  
  <br />
 ## :computer: Technologies that I know
-
 <br>
 <p align="center">
 <img src="https://i.ibb.co/LRGrxXz/HTML.png"/>
@@ -42,6 +41,9 @@ Skills: JavaScript, React.js, Next.js, Node.js, MongoDB, HTML5, CSS3, Tailwind C
 <img src="https://i.ibb.co/SNXx7j6/node.png"/>
 <img src="https://i.ibb.co/KmgyfpD/express.png"/>
 <img src="https://i.ibb.co/88twDYS/mongo.png"/>
+</p><br/>
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p><br/>
 
 <h3 align="left">Languages and Tools:</h3>
