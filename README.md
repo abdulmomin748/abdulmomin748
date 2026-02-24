@@ -12,7 +12,7 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - 👨‍💻 All of my projects are available at [https://abmomin.netlify.app/](https://abmomin.netlify.app/)
 - 👯 Open to collaborating on GitHub projects.
 - ✉️ Feel free to email me at mominurrahman10748@gmail.com
-- 📄 You can check my [Résumé](https://drive.google.com/file/d/1KqOtiFy2gcTrxR0V2OIbTVQDVfZbCKzs/view) for more details — feedback is always welcome.
+- 📄 You can check my [Résumé](https://drive.google.com/file/d/1TA4a6WOwDt3ZbJGWpTyCOvV9TOvvwTpc/view?usp=sharing) for more details — feedback is always welcome.
 - 📍 Based in Thakurgaon, Bangladesh.
 - ⚡ Fun fact **"Learn from the mistakes" 😃**
 
@@ -26,7 +26,8 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 ## 🤝 Reach out to me
 - 📧 Email: mominurrahman10748@gmail.com  
 - 🌍 Portfolio: [@AbMominDev](https://abmomin.netlify.app/)  
-- 💬 Discord: [@AbMominDev](https://discord.com/users/911625236271747093)  
+- 💬 Discord: [@AbMominDev](https://discord.com/users/911625236271747093)
+- 💬 Discord: [@AbMominDev](Wa.me/+8801701910748)
 <br />
 
 <a href="https://codepen.io/abdulmomin748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulmomin748" height="30" width="40" /></a>
