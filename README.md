@@ -27,7 +27,7 @@ I am a Junior Web Developer focused on Frontend and MERN Stack development. I bu
 - 📧 Email: mominurrahman10748@gmail.com  
 - 🌍 Portfolio: [@AbMominDev](https://abmomin.netlify.app/)  
 - 💬 Discord: [@AbMominDev](https://discord.com/users/911625236271747093)
-- 💬 Discord: [@AbMominDev](Wa.me/+8801701910748)
+- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/8801701910748)
 <br />
 
 <a href="https://codepen.io/abdulmomin748" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abdulmomin748" height="30" width="40" /></a>
